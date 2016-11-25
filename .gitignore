@@ -1,0 +1,4 @@
+/Project/*
+!/Project/*.dsp
+!/Project/*.dsw
+!/Project/*.cpp
