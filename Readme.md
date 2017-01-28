@@ -21,6 +21,16 @@
 
 此项目使用 C++ 在控制台上实现了这个小功能
 
+## 效果展示
+
+(https://github.com/bt8023cpt/test-your-purity/blob/master/Image/start.png)
+
+(https://github.com/bt8023cpt/test-your-purity/blob/master/Image/question.png)
+
+(https://github.com/bt8023cpt/test-your-purity/blob/master/Image/result.png)
+
+(https://github.com/bt8023cpt/test-your-purity/blob/master/Image/error.png)
+
 ## 编译环境
 
 - Visual C++ 6.0
