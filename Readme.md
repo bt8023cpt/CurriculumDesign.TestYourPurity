@@ -23,13 +23,13 @@
 
 ## 效果展示
 
-(https://github.com/bt8023cpt/test-your-purity/blob/master/Image/start.png)
+![image](https://github.com/bt8023cpt/test-your-purity/blob/master/Image/start.png)
 
-(https://github.com/bt8023cpt/test-your-purity/blob/master/Image/question.png)
+![image](https://github.com/bt8023cpt/test-your-purity/blob/master/Image/question.png)
 
-(https://github.com/bt8023cpt/test-your-purity/blob/master/Image/result.png)
+![image](https://github.com/bt8023cpt/test-your-purity/blob/master/Image/result.png)
 
-(https://github.com/bt8023cpt/test-your-purity/blob/master/Image/error.png)
+![image](https://github.com/bt8023cpt/test-your-purity/blob/master/Image/error.png)
 
 ## 编译环境
 
